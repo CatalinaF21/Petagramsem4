@@ -23,7 +23,6 @@ public class ActivityContacto extends AppCompatActivity {
         getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         findViewById(R.id.space).setVisibility(View.GONE);
-        findViewById(R.id.fav).setVisibility(View.INVISIBLE);
     }
 
     public void enviarMensaje (View view) {

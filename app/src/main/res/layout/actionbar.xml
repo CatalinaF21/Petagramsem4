@@ -36,7 +36,7 @@
             android:textSize="24sp"
             android:textStyle="bold" />
 
-        <ImageView
+      <!--  <ImageView
             android:id="@+id/fav"
             android:layout_width="117dp"
             android:layout_height="56dp"
@@ -44,7 +44,7 @@
             android:contentDescription="@string/favoritos"
             android:onClick="irSegundaActividad"
             android:padding="10dp"
-            android:src="@drawable/estrella" />
+            android:src="@drawable/estrella" /> -->
 
     </LinearLayout>
 

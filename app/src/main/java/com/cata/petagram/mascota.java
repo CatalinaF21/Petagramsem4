@@ -11,7 +11,7 @@ public class mascota {
         this.like=like;
     }
 
-    public String getNombre() {
+       public String getNombre() {
         return nombre;
     }
 
